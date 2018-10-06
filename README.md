@@ -4,7 +4,7 @@ A collection of free glacier graphics that can be used for education and
 outreach.
 
 
-License: [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+**License**: [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
 
@@ -13,14 +13,14 @@ and do not sell them.
 
 ## An introduction to glaciers
 
-Author: Anne Maussion, [Atelier les Gros yeux](http://atelierlesgrosyeux.com/)
+**Author**: Anne Maussion, [Atelier les Gros yeux](http://atelierlesgrosyeux.com/)
 
 This series of graphics was designed for a talk given by
 [Fabien Maussion](https://fabienmaussion.info/) to a general audience. He used
 them to explain the concepts of accumulation, ablation, equilibrium line
 altitude and mass movements in a glacier.
 
-Download: [zip file](/glacier_intro/glacier_intro.zip)
+**Download**: [zip file](/glacier_intro/glacier_intro.zip)
 
 [![image unavailable](/glacier_intro/thumbnails/glacier_01.png)](/glacier_intro/png/glacier_01.png)
 
@@ -91,9 +91,18 @@ below for a companion graphic.
 
 ## Glaciers as a low-pass filter of climate
 
-Author: Fabien Maussion with the [OGGM](http://oggm.org) model.
+**Author**: Fabien Maussion with the [OGGM](http://oggm.org) model.
 
-Code: [OGGM-edu](https://github.com/OGGM/oggm-edu)
+**Code**: [OGGM-edu](https://github.com/OGGM/oggm-edu)
+
+**Download**: [zip file](/glacier_response/glacier_response.zip)
 
 This series of graphics was used right after the graphics above to explain
-the concepts of **response time** and **low-pass filter**.
+the concepts of **response time** (or time constant) and **low-pass filter**.
+
+Here again, there are several stages to click through (useful for presentations):
+
+<img src="/glacier_response/png/tau_01.png" alt="Tau 1" width="50%">
+<img src="/glacier_response/png/tau_02.png" alt="Tau 2" width="50%">
+<img src="/glacier_response/png/tau_03.png" alt="Tau 3" width="50%">
+<img src="/glacier_response/png/tau_04.png" alt="Tau 4" width="50%">
