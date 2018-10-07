@@ -20,7 +20,14 @@ This series of graphics was designed for a talk given by
 them to explain the concepts of accumulation, ablation, equilibrium line
 altitude and mass movements in a glacier.
 
-**Download**: [zip file](/glacier_intro/glacier_intro.zip)
+**Download**: [zip file](/glacier_intro/glacier_intro.zip), [gif]()
+(thanks to [Kevin Pluck](https://twitter.com/kevpluck) from [Pixel Movers & Makers](https://pixelmoversandmakers.com/) for generating the gif)
+
+### Animation
+
+![image unavailable](/glacier_intro/gif/glacier.gif)
+
+### Single images with explanations
 
 [![image unavailable](/glacier_intro/thumbnails/glacier_01.png)](/glacier_intro/png/glacier_01.png)
 
