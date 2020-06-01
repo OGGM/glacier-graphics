@@ -4,12 +4,11 @@ A collection of free glacier graphics that can be used for education and
 outreach.
 
 
-**License**: [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/)
+**License**: [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="CC-BY-SA License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />
 
-Feel free to use / adapt the graphics, but always refer to the original author
-and do not sell them.
+Feel free to use / adapt the graphics, but always refer to the original author and share them with a compatible license.
 
 ## An introduction to glaciers
 
@@ -20,7 +19,7 @@ This series of graphics was designed for a talk given by
 them to explain the concepts of accumulation, ablation, equilibrium line
 altitude and mass movements in a glacier.
 
-**Download**: [zip file](/glacier_intro/glacier_intro.zip), [gif]()
+**Download**: [zip file](/glacier_intro/glacier_intro.zip), [gif](/glacier_intro/gif/glacier.gif)
 (thanks to [Kevin Pluck](https://twitter.com/kevpluck) from [Pixel Movers & Makers](https://pixelmoversandmakers.com/) for generating the gif)
 
 ### Animation
