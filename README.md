@@ -95,6 +95,29 @@ This new imbalance decreases the flux of ice through the glacier (hence the
 thinner arrow) and results in a glacier retreat. See the response time section
 below for a companion graphic.
 
+## An introduction to debris-covered glaciers
+
+**Author**: Lindsey Nicholson (adapted from Anne Maussion, [Atelier les Gros yeux](http://atelierlesgrosyeux.com/))
+
+This graphic was designed for the paper from [Nicholson et al., 2021](https://doi.org/10.3389/feart.2021.662695).
+It illustrates the processes of debris flux through a mountain glacier.
+
+**Download**: [zip file](/glacier_debriscovered/glacier_debriscovered.zip)
+
+### Image with english labels
+
+[![image unavailable](/glacier_debriscovered/thumbnails/glacier_debriscovered_englishlabels.png)](/glacier_debriscovered/png/glacier_debriscovered_englishlabels.png)
+
+Rock debris from the surrounding landscape is transported by glacier ice motion,
+and some glaciers can develop into debris covered glaciers, with a layer of
+rock rubble covering part of their ablation zone. This debris cover alters
+the ablation rate of the glacier, and therefore its overall interaction with
+a forcing climate.
+
+### Image with no labels
+
+[![image unavailable](/glacier_debriscovered/thumbnails/glacier_debriscovered_nolabels.png)](/glacier_debriscovered/png/glacier_debriscovered_nolabels.png)
+
 ## Glaciers as a low-pass filter of climate
 
 **Author**: Fabien Maussion with the [OGGM](http://oggm.org) model.
